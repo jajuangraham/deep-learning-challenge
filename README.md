@@ -1,4 +1,6 @@
 Alphabet Soup Charity: Deep Learning Model Report
+
+
 The goal of this project was to build a neural network that could help Alphabet Soup predict which organizations they fund are likely to be successful. Using historical data, I cleaned and prepared the dataset, built a binary classification model, and then worked on improving its accuracy through model tuning and data adjustments.
 
 Results
